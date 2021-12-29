@@ -20,7 +20,7 @@ export default class Ball {
 
     update(delta) {
         this.x = 5
-        this.y = 15
+        this.y = 20
 
     }
 
